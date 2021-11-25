@@ -9,8 +9,8 @@
 # 
 # ---
 # 
-# * Estudiante: **Nombre completo**
-# * Carné: **B12345**
+# * Estudiante: **Andres Quesada Molina**
+# * Carné: **B78911**
 # * Grupo: **1/2**
 # 
 # ---
